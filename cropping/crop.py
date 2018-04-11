@@ -31,8 +31,3 @@ for file in list:
 
     file_name = file
     facecrop('C:/Users/aaron/Desktop/Updated CK+ dataset/Colored - sadness/' + file_name)
-
-
-# list = os.listdir('C:/Users/aaron/Desktop/Cropped Dataset/suprise')
-# size = len(list)
-# print(size)
